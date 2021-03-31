@@ -9,7 +9,7 @@ const NavBar =() =>{
  <Navbar.Toggle aria-controls="basic-navbar-nav" />
  <Navbar.Collapse id="basic-navbar-nav">
    <Nav className="mr-auto">
-     <Nav.Link href="/SurgeryWebsite">Home</Nav.Link>
+     <Nav.Link href="/home">Home</Nav.Link>
      <Nav.Link href="https://surgery-inventory.herokuapp.com/">Inventory</Nav.Link>
      <NavDropdown title="Menu" id="basic-nav-dropdown">
        <NavDropdown.Item href="/Imaging">Imaging Steps</NavDropdown.Item>
