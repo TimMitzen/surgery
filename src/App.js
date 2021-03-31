@@ -17,6 +17,7 @@ function App() {
       <NavBar/>
       <header className="App-header">
         <Router>
+          
           <Routes/>
          
         </Router>
