@@ -20,10 +20,10 @@ const Ricoh = () => {
         </li>
 
         <li className="list">
-          PCAM3 \\uphsps02\SURG-PCW3-UROLOGY-RICOH-RES 170.166.249.23 /p>
+          PCAM3 \\uphsps02\SURG-PCW3-UROLOGY-RICOH-RES 170.166.249.23 
         </li>
         <li className="list">
-          {" "}
+        
           \\uphsps02\SURG-PCAM3-UROLOGY-RICOH01 170.166.250.114
         </li>
 
