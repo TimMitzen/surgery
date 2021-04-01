@@ -18,7 +18,7 @@ function App() {
       <header className="App-header">
         <Router>
           <Routes />
-          Surgery IS Website
+       
         </Router>
       </header>
     </div>
