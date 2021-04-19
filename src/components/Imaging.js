@@ -52,9 +52,9 @@ const Imaging = () => {
 
         <li className="list">log in as user</li>
 
-        <li className="list">remove edge from set menu</li>
+        
 
-        <li className="list">delete edge from desktop and start menu</li>
+        
 
         <li className="list">
           right click on backup and run with powershell and follow prompts, to

@@ -68,6 +68,8 @@ const Ricoh = () => {
         <li className="list">IP =10.172.143.251</li>
 
         <li className="list">SPE10 file room 10.170.43.230</li>
+
+        <li className='list'>Rav 5000 10.172.172.14</li>
       </ol>
     </div>
   );
