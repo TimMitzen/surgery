@@ -70,6 +70,7 @@ const Ricoh = () => {
         <li className="list">SPE10 file room 10.170.43.230</li>
 
         <li className='list'>Rav 5000 10.172.172.14</li>
+        <li className ='list'> PCAM3 MR \\uphsps02\Ricoh003 170.166.251.200</li>
       </ol>
     </div>
   );
