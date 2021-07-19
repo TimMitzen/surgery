@@ -7,7 +7,7 @@ const Ricoh = () => {
         <h2>Ricoh Printers</h2>
         <h2>User Name: Admin Password: leave blank</h2>
 
-        <li className="list">Grd Founders (Big One) 170.212.71.176</li>
+        <li className="list">Grd Founders (Big One) \\UPHSURGPSAPP001\SURG-GFOUND-RICOH1 170.212.71.176 </li>
 
         <li className="list">Grd 079 Founders (Small One) 170.212.71.171</li>
 
@@ -15,6 +15,9 @@ const Ricoh = () => {
 
         <li className="list">3 PCAM In the back by Amanda 170.166.250.117</li>
 
+        <li className="list">
+        3 PCAM MEDREC office \\UPHSURGPSAPP001\SURG-GFOUND-RICOH1  170.166.250.114
+        </li>
         <li className="list">
           3 PCAM \\uphsps02\SURG-PCAM3-UROLOGY-RICOH01 170.166.250.114
         </li>
