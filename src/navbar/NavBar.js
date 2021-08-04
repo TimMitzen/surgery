@@ -12,6 +12,9 @@ const NavBar = () => {
           <Nav.Link href="https://surgery-inventory.herokuapp.com/">
             Inventory
           </Nav.Link>
+    <Nav.Link href="http://timisone.pythonanywhere.com/">
+           Non-Ricoh Printers
+          </Nav.Link>         
           <NavDropdown title="Menu" id="basic-nav-dropdown">
             <NavDropdown.Item href="/imaging">Imaging Steps</NavDropdown.Item>
             <NavDropdown.Item href="/video">
