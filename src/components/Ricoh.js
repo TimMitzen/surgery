@@ -108,6 +108,9 @@ const Ricoh = () => {
         <li className="list">
           PRESBY   \\UPHSURGPSAPP001\SURG-PRESBY-RICOH1 10.179.49.215
         </li>
+        <li className="list">
+          BYRN MAWR  \\UPHSURGPSAPP001\SURG-BYRNMAWR-RICOH1 10.171.9.220
+        </li>
       </ol>
     </div>
   );
