@@ -21,7 +21,7 @@ const NavBar = () => {
               Video Conferencing
             </NavDropdown.Item>
             <NavDropdown.Item href="/drives">Drive Mappings</NavDropdown.Item>
-
+            <NavDropdown.Item href="/instructions">Instructions</NavDropdown.Item>
             <NavDropdown.Item href="/ricoh">Ricoh</NavDropdown.Item>
           </NavDropdown>
         </Nav>
