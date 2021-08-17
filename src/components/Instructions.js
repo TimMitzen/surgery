@@ -3,7 +3,7 @@ import React from "react";
 const Instructions = () =>{
    return(
       <div>
-         Print server:
+         Instructions for Print server:
          <ol>
          <li className='list'>
             Open Remote desktop Connection
