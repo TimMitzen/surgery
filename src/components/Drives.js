@@ -47,8 +47,13 @@ const Drives = () => {
       <li className="listHeading">Pennmobile apps website</li>
 
       <li className="list">http://mhealth.pennmedicine.org/</li>
-
+      
+      <li className="listHeading">Tavr/Presby drive</li>
+    
+      <li className="list">AD group: Group_Value_Center \\uphsfp17\workgroup\ Has to be manually mapped</li>
+    
       <li className="listHeading">Syngo website</li>
+      
 
       <li className="list">http://uphsyndypor01/sdportal/ Have to use IE</li>
     </div>
