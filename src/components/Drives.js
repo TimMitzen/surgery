@@ -50,7 +50,7 @@ const Drives = () => {
       
       <li className="listHeading">Tavr/Presby drive</li>
     
-      <li className="list">AD group: Group_Value_Center \\uphsfp17\workgroup\ Has to be manually mapped</li>
+      <li className="list">AD group: Group_Valve_Center \\uphsfp17\workgroup\valve_center Has to be manually mapped</li>
     
       <li className="listHeading">Syngo website</li>
       
