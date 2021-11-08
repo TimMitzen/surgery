@@ -55,7 +55,10 @@ const Drives = () => {
       <li className="listHeading">Syngo website</li>
       
 
-      <li className="list">http://uphsyndypor01/sdportal/ Have to use IE</li>
+      <li className="list">http://uphsyndypor01/sdportal/ Have to use IE </li>
+      <li className="listHeading">PMWS Surgery Group name is the same</li>
+      <li className="list">Maps the J drive \\Uphsfp12\PMWSSurgery$</li>
+      
     </div>
   );
 };
