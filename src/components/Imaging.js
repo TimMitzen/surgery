@@ -27,7 +27,7 @@ const Imaging = () => {
         </li>
 
         <li className="list">
-          Go to uphappndc186\surgery-alt\newcomputer right click MakeUserAdmin
+          Go to \\surg\install newcomputer right click MakeUserAdmin
           and run powershell, follow prompts, add uphs\surgery information users
           for admin
         </li>
@@ -39,13 +39,13 @@ const Imaging = () => {
         <li className="list">install logon script and from software center</li>
 
         <li className="list">
-          Go to uphappndc186\surgery-alt\newcomputer right click RemoteUser and
+          Go to \\surg\install\newcomputer right click RemoteUser and
           run powershell, follow prompts, add uphs\username, username is there
           log in name
         </li>
 
         <li className="list">
-          Go to uphappndc186\surgery-alt\newcomputer right click MakeUserAdmin
+          Go to \\surg\install\ewcomputer right click MakeUserAdmin
           and run powershell, follow prompts, add uphs\who ever the user is if
           its a laptop
         </li>
@@ -72,11 +72,11 @@ const Imaging = () => {
 
         <li className="list">configure outlook</li>
 
-        <li className="list">put ie on desktop</li>
+        <li className="list">put edge on desktop</li>
 
         <li className="list">put outlook on desktop</li>
 
-        <li className="list">go to themes and put computer icon on desktop</li>
+        <li className="list">go to themes and put computer icon on desktop. Then defaults and adobe, make adobe pdf the default</li>
 
         <li className="list">put h and i drive on desktop</li>
 
@@ -91,7 +91,7 @@ const Imaging = () => {
         <li className="list">Log into Teams as user</li>
 
         <li className="list">
-          Download Bluejeans app from https://www.bluejeans.com/downloads
+          Run bluejeans from \\surg\powershell\newcomputer\
         </li>
 
         <li className="list">after deploying pc</li>
