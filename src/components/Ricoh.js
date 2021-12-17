@@ -47,10 +47,7 @@ const Ricoh = () => {
           4 Silver Near VAS AA's \\UPHSURGPSAPP001\SURG-SIL4-RICOH1
           170.212.63.80
         </li>
-        <li className="list">
-          Silver 4 Next to IT closet \\UPHSURGPSAPP001\SURG-SIL4-RICOH2
-          10.172.143.251
-        </li>
+   
 
         <li className="list">
           4 Maloney (GME office) \\UPHSURGPSAPP001\SURG-MAL4-RICOHEDU
